@@ -1,0 +1,10 @@
+# Rust build artifacts
+/target
+
+# Packaged output
+/dist
+
+# Editor / OS cruft
+*.swp
+*~
+.DS_Store

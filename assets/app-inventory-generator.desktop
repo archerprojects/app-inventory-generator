@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=App Inventory Generator
+GenericName=Package Inventory Tool
+Comment=Scan installed packages and generate a distro migration install script
+Exec=app-inventory-generator
+Icon=app-inventory-generator
+Terminal=false
+Type=Application
+Categories=X-LEAN-Tools;System;
+Keywords=packages;inventory;migration;distro;install;script;
+StartupNotify=true

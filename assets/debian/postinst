@@ -1,0 +1,6 @@
+#!/bin/bash
+set -e
+echo "  [App Inventory Generator] postinst running..."
+gtk-update-icon-cache -f -t /usr/share/icons/hicolor 2>/dev/null || true
+gtk-update-icon-cache -f -t /usr/share/icons/lean-icons 2>/dev/null || true
+echo "  [App Inventory Generator] install complete."

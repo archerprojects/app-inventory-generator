@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="App Inventory Generator">
+  <rect x="4" y="4" width="56" height="56" rx="13" fill="#4b8bd4"/>
+  <path d="M16 21 l3.2 3.2 l6.5 -7.5" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="29" y="19.5" width="20" height="4" rx="2" fill="#ffffff"/>
+  <path d="M16 32 l3.2 3.2 l6.5 -7.5" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="29" y="30.5" width="14" height="4" rx="2" fill="#ffffff"/>
+  <path d="M15 46 H41" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M35 40 L45 46 L35 52" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
