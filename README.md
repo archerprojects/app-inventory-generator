@@ -169,4 +169,4 @@ app-inventory-generator
 
 GPL-3.0-or-later. See [LICENSE](LICENSE) for the full text.
 
-Copyright (C) 2026 archerprojects (archer.projects@proton.me)
+Developed for Lean Linux by archerprojects ([archer.projects@proton.me](mailto:archer.projects@proton.me)) Copyright (C) 2026
