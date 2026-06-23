@@ -79,6 +79,16 @@ regenerate for the same target.
 
 ---
 
+## Screenshots
+
+![Target selection screen](screenshots/01_target_select.jpg)
+*Select your target distro before scanning — resolution targets the right system from the start.*
+
+![Package review screen](screenshots/02_review.jpg)
+*The review screen — four tabs, all packages unselected by default, config paths shown in blue.*
+
+---
+
 ## Supported systems
 
 **Scans (host):** Debian / Ubuntu / Mint / Pop!_OS (apt), Fedora / RHEL /
