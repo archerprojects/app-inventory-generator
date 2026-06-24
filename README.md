@@ -7,13 +7,12 @@ your chosen apps on a new Linux system.
 
 ---
 
-## Developed for Lean Linux by
+**Developer**
 
 ```
-Developer:  archerprojects
-Contact:    archer.projects@proton.me
-Maintainer: archerprojects <archer.projects@proton.me>
-archerprojects (archer.projects@proton.me)
+Developed for Lean Linux by:
+archerprojects
+archer.projects@proton.me
 https://github.com/archerprojects/app-inventory-generator
 ```
 
